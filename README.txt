@@ -12,3 +12,6 @@ COMP 3005: Assignment 3, Question 1
 2 - Navigate to the App Folder in your Terminal, then Run: python main.py
 
 3 - Follow the Main Menu Options
+
+-- Link to Video --
+https://youtu.be/IVA-kPipPRU
